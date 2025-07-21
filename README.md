@@ -18,7 +18,7 @@ Bu proje, Google Gemini LLM ve LangChain teknolojilerini kullanarak sağlıkla i
     ```
 3. Oluşturduğunuz env aktif ettikten sonra gerekli Python paketlerini yükleyin:
     ```sh
-    pip install fastapi uvicorn langchain openai python-dotenv langchain_community
+    pip install fastapi uvicorn langchain google-generativeai python-dotenv langchain_community
     ```
 4. `.env` dosyasına Google API anahtarınızı ekleyin:
     ```
